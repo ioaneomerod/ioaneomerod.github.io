@@ -29,27 +29,27 @@
   },
   "interests": [
     {
-      "name": "Data Science",
+      "name": "data science",
       "keywords": [
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "machine learning",
       "keywords": [
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "Web Development",
+      "name": "web development",
       "keywords": [
        ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
