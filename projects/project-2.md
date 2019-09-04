@@ -5,12 +5,12 @@ image: images/BST.png
 title: Binary Search Tree
 permalink: projects/bst
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-11-09
 labels:
   - Java
   - Binary Search Tree
-  - InOrder Search 
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - In Order Search 
+summary: 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
