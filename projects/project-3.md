@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/Records.jpg
+title: Records 
+permalink: projects/records
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
