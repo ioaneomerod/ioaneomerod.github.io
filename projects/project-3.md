@@ -5,10 +5,12 @@ image: images/Records.jpg
 title: Records 
 permalink: projects/records
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-04-13
 labels:
-  - Lisp
-  - GitHub
+  - C++
+  - Source Code Control System
+  - Makefile
+  - Bash Scripts
 summary: A text adventure game I developed for ICS 313.
 ---
 
