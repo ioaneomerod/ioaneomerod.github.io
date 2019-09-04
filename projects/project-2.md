@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/BST.png
 title: Binary Search Tree
-permalink: projects/vacay
+permalink: projects/bst
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
