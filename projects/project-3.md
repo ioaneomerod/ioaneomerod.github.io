@@ -11,7 +11,7 @@ labels:
   - Source Code Control System
   - Makefile
   - Bash Scripts
-summary: My final project for ICS 212 that would allow a user to manipulate a database of records with the commands, add a record, delete a record, find and print a record using the user's account number or name and printing the whole record database.
+summary: "My final project for ICS 212 that would allow a user to manipulate a database of records with the commands: add a record, delete a record, find and print a record using the user's account number or name and printing the whole record database."
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
