@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/JNI-Java-Native-Interface.jpg
 title: Java Native Interface
-permalink: projects/micromouse
+permalink: projects/jni
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-26
 labels:
