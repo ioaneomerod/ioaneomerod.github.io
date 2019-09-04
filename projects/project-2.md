@@ -9,8 +9,8 @@ date: 2018-11-09
 labels:
   - Java
   - Binary Search Tree
-  - In Order Search 
-summary: 
+  - In Order Traversal 
+summary: A ICS 211 assigment that helped us learn about binary search trees and the different ways to traverse them. We had to create a binary search tree of Contacts and have a function traverse the tree in order. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
