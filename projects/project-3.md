@@ -16,7 +16,9 @@ summary: "My final project for ICS 212 that would allow a user to manipulate a d
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Our final project for ICS 211 that simulates a record database that can be changed based on user input. The database would be a linked list of record structures. The user can add a new record that includes the person’s name, address and account number. The user can also delete a record from the database using the record’s account number. The user can find and print a record using the name associated with the record. The user can print a record using the record’s account number. When a user exits the user interface the database is saved so it can be reloaded the next time a user uses the program.
+
+This project was a culmination of various things learned through out the semester like using SCCS to save different versions of a file. Writing a bash script to get the different files from SCCS. Writing a Makefile to compile all of the code and create an executable. And manipulating a linked list with different functions. 
 
 To give you a flavor of the game, here is an excerpt from one run:
 
