@@ -18,5 +18,5 @@ In this homework for ICS 211 we were given a function f(x) = x^2 for x < 5, x^2 
 The two hardest parts about this assignment were trying to switch between writing Java and C code and getting everything to compile and execute. Trying to debug and switch between Java and C while coding was a challenge as I had never worked on multiple languages at the same time before but it’s something I found valuable to be able to switch from one language to another. Getting the files to compile together was also the biggest challenge as I was having trouble including a path for the code to run.
 
 Here is a sample of the code's output and how I compiled and executed the code: 
-
+<img class="compilation and sample output of Java Native Interface Code" src="../images/BST.png">
 
