@@ -20,4 +20,4 @@ A binary search tree was used to sort an object known as Contacts which had thre
 This assignment combined elements from things we learned before in the class and we just needed to apply it to this assignment. Like using recursion to traverse the binary search tree in order. And taking what we learned about coding with trees and applying that to coding the binary search tree. 
 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Here is my source code for this project: <a href="https://github.com/ioaneomerod/binary-search-tree"><i class="large github icon"></i>Binary Search Tree</a>
