@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: So why not?
+title: So Why Not?
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
