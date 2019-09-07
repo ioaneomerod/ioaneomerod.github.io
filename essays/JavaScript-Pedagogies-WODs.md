@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: JavaScript and Pedagogies and WODs, Oh My!
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
