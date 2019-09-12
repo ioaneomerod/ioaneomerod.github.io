@@ -26,6 +26,9 @@ The original question posed is extremely confusing and seems hastily posted. The
 To see a question that was asked in a clear and “smart” manner take this question from: 
 <br/> <a href = "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons/359509#359509"> Which equals operator (== vs ===) should be used in JavaScript comparisons? </a>
 
+<img class="Good Question Example" src="../images/comparisons-question.png">
+<img class="Response to a good question" src="../images/comparisons-answer.png">
+
 The question begins with some background information about how, while coding in JavaScript the poster was prompted to change their comparison operator == to ===. The poster follows this with a simple example of code that was prompted to be changed and then asks if there is a benefit to replacing == with ===. Unlike the previous question, this question gives relevant background information that gives context to the question, gives a quick example and then asks their question instead of just asking for help. Due to their question being articulately asked, the original poster was rewarded with multiple detailed responses to their question about the differences between the == and === comparison operators in JavaScript. 
 
 ## You Reap What You Sow
