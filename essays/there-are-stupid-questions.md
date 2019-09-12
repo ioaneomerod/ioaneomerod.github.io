@@ -17,6 +17,7 @@ Despite what the phrase “there are no stupid questions” may lead you to beli
 Take for example this question that comes from: 
 <br/> <a href = "https://stackoverflow.com/questions/13946934/create-contain-file-log-coldfusion"> create contain file log coldfusion </a>
 
+<img =
 The original question posed is extremely confusing and seems hastily posted. The person asking the question states that they want their code to create a log file but an error occurs. They then post a link to their code, and then they say to look at a specific line of code that's there for unknown reasons. The original poster does not have what programming languages or tools they are using for this code. They at first didn't have what error was occuring for them, and then they posted the error and a line of code, which they said was where the error was occuring. However, as pointed out by a respondent, the line of code that the original poster said is causing the error is a different line of code then where the error message states the error is occuring. The original poster also does not state anything they did attempted to fix their code and just asks for help. Since the question is not currently marked as solved, I assume the original poster never found an answer to their question. This may be because their question is ambigious and indescriptive, which is confusing and hard for people to solve. 
 
 ## The Rewards of Good Questions
