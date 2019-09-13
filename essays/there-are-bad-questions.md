@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: There Aren't Stupid Questions but there are Bad Ones
+title: There Are Bad Questions
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
 labels:
