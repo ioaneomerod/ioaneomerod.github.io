@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-Despite what the phrase “there are no stupid questions” may lead you to believe, there are definitely stupid questions. When I say, there are stupid questions, I mean that there are questions that can be so poorly worded that they come off as either lazy or confusing and people don’t like being asked lazy and confusing questions. 
+The phrase “there are no stupid questions” may lead you to believe that there are no bad questions and every question you have should be asked. This is completletly false. There are definitely bad questions that you should just keep to yourself. These questions are poorly worded, ill-informed and confusing for everyone involved. So, for everyone's sake only ask good questions.  
 
 ## The Consequences of Bad Questions 
 Take for example this question that comes from: 
