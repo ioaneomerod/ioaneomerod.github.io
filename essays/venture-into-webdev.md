@@ -16,9 +16,12 @@ My introduction to HTML and CSS was on Free Code Camp where I was attempting to 
 
 ## HTML vs Semantic UI
 My first project using Semantic UI was a remake of another project, Browser History, that was built earlier using raw HTML and CSS. The first thing that got my attention after remaking Browser History with Semantic UI was how simple it was to create the webpage and how neat and clean the webpage looked. For the Browser History project, we had to create a navigation bar. To create the navigation bar using raw HTML and CSS, I used an unordered list with a few CSS style rules that looked like this: 
+
 <img class="BH Using Raw HTML and CSS" src="../images/BH-Raw-HTML.png">
 
+
 However, when I created the navigation bar using Semantic UI, all I had to do was create a single div for the navigation bar. This was easier to create and looked much better than the original: 
+
 <img class="BH Using Semantic UI" src="../images/BH-Semantic.png">
 
 ## Why Use a Framework? 
