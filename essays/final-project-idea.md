@@ -15,6 +15,7 @@ labels:
 
 ## The Solution:
 <p>
+  The UH Carpooling application allows students to login and create a profile indicating their general home location, their preferred arrival and departure times, and musical preferences. This application will allow students to find other students with matching schedules and take advantage of UH Manoa’s commuter passes.
 </p>
 
 ## Mockup Page Ideas:
