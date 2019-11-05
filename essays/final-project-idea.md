@@ -27,3 +27,11 @@ labels:
    <li>Create carpool ride</li>
    <li>Admin Page</li>
 </ul>
+
+## Beyond the Basics:
+After implementing the basic functionality, here are ideas for more advanced features:
+<ul>
+  <li>Optimal profile suggestions to maximize gas mileage</li>
+ <li>Rating system to find reliable partners</li>
+ <li>Ability to select different ride share groups for different days</li>
+</ul>
