@@ -25,4 +25,5 @@ labels:
    <li>User profile page</li>
    <li>Scheduled rides</li>
    <li>Create carpool ride</li>
+   <li>Admin Page</li>
 </ul>
