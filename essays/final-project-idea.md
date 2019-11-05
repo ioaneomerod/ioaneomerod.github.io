@@ -8,11 +8,18 @@ labels:
   - Meteor
 ---
 
-<b>The problem:</b> 
+##The problem: 
 <p>
   Some UH manoa students carpool to campus, and there is no specific website or service for college students who go to UH Manoa to find carpool opportunities. This makes finding carpooling opportunities to UH Manoa difficult. 
 </p>
 
-<b>The solution:</b> 
+##The solution:
 <p>
 </p>
+
+Mockup:
+   Landing page
+   User home page
+   User profile page
+   Scheduled rides
+   Create carpool ride
