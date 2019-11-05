@@ -28,6 +28,15 @@ labels:
    <li>Admin Page</li>
 </ul>
 
+## Use Case Ideas:
+<ul>
+   <li>New user goes to landing page, logs in, gets home page, sets up commuting profile</li>
+   <li>Admin goes to landing page, logs in, gets home page, edits site</li>
+   <li>User goes to landing page, logs in, requests car pool</li>
+   <li>User is notified of a possible car pool, responds</li>
+   <li>User checks their carpool confirmation</li>
+</ul>
+   
 ## Beyond the Basics:
 After implementing the basic functionality, here are ideas for more advanced features:
 <ul>
