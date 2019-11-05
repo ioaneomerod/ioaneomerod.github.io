@@ -18,8 +18,10 @@ labels:
 </p>
 
 ## Mockup:
+<bl>
    Landing page
    User home page
    User profile page
    Scheduled rides
    Create carpool ride
+  </bl>
