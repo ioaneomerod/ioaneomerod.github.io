@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-<br>
+
 This essay was co-authored with Eric Rivera and Eric Botello. 
 
 
