@@ -3,7 +3,7 @@
     "name": "Ioane Omerod",
     "label": "Student",
     "picture": "https://ioaneomerod.github.io/images/ioane.png",
-    "email": "ioane808@hawaii.edu",
+    "email": "ioaneomerod@gmail.com",
     "phone": "",
     "website": "https://ioaneomerod.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2021. I hope to use my degree to find a job I enjoy and to work on various passion projects that express my interests. I also wish to eventually earn a graduate degree in Computer Science.",
@@ -61,7 +61,12 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "JavaScript",
+        "HTML/CSS",
+        "Semantic UI",
+        "React",
+        "Meteor"
       ]
     },
     {
@@ -71,7 +76,11 @@
         "MacOS",
         "gcc",
         "Eclipse",
-        "g++"
+        "g++",
+        "IntelliJ",
+        "MongoDB",
+        "Galaxy",
+        "GitHub"
       ]
     }
   ],
@@ -84,6 +93,12 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Introduction to Computer Science I",
+        "Introduction to Computer Science II",
+        "Discrete Mathematics for Computer Science I",
+        "Discrete Mathematics for Computer Science II",
+        "Software Engineering I",
+        "Algorithms"
       ]
     }
   ],
