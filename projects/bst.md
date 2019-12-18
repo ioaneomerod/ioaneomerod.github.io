@@ -15,23 +15,17 @@ summary: An ICS 211 assigment that helped us learn about binary search trees and
 
 <img class="example picture of binary search tree" src="../images/BST.png">
 
-<p>
-    For this assignment we were given a class, contacts, which had three strings a first name, last name and contact number, test cases to test our binary search tree and a search tree and in order interface. 
-    I implemented the binary search tree and its functions. 
-    The tree was made with functions to add contacts to the tree, delete contacts from the tree, find a contact and a contains function that returned true if a contact was found to be in the tree or false if no contact was found. 
-    I built a comparator that returned an integer based on the contact’s last name and an integer comparator was made to compare the integers returned from the contact comparator. 
-    These comparators were used so the contacts could be sorted when added to the binary search tree. 
-    I implemented an in order function to traverse the binary search tree in order and return a list of all of the contacts in the binary search tree. 
-</p>
+For this assignment we were given a class, contacts, which had three strings a first name, last name and contact number, test cases to test our binary search tree and a search tree and in order interface. 
+I implemented the binary search tree and its functions. 
+The tree was made with functions to add contacts to the tree, delete contacts from the tree, find a contact and a contains function that returned true if a contact was found to be in the tree or false if no contact was found. 
+I built a comparator that returned an integer based on the contact’s last name and an integer comparator was made to compare the integers returned from the contact comparator. 
+These comparators were used so the contacts could be sorted when added to the binary search tree. 
+I implemented an in order function to traverse the binary search tree in order and return a list of all of the contacts in the binary search tree. 
 
-<p>
-    This assignment combined elements from things we learned before in the class and we just needed to apply it to this assignment. 
-    We had learned the concept of trees and how to build trees earlier, so I had to apply what I learned from building trees before to building a binary search tree. 
-    I also had to use recursion for most of the binary search tree functions, which we had also learned about and used in previous assignments. 
-    I ran into some problems with recursion, specifically with the add and delete functions and updating the root node while calling the function recursively. 
-    This was fixed by creating helper functions that would run recursively instead of the actual add or delete functions. 
-</p>
+This assignment combined elements from things we learned before in the class and we just needed to apply it to this assignment. 
+We had learned the concept of trees and how to build trees earlier, so I had to apply what I learned from building trees before to building a binary search tree. 
+I also had to use recursion for most of the binary search tree functions, which we had also learned about and used in previous assignments. 
+I ran into some problems with recursion, specifically with the add and delete functions and updating the root node while calling the function recursively. 
+This was fixed by creating helper functions that would run recursively instead of the actual add or delete functions. 
 
-<p>
-    Here is my source code for this project: <a href="https://github.com/ioaneomerod/binary-search-tree"><i class="large github icon"></i>Binary Search Tree</a>
-</p>
+Here is my source code for this project: <a href="https://github.com/ioaneomerod/binary-search-tree"><i class="large github icon"></i>Binary Search Tree</a>
