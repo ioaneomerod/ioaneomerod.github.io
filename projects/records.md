@@ -65,4 +65,5 @@ A lot of class assignments required us to  create simple, text based user interf
 We had to create structures in C and C++ and classes in C++, which was needed when we worked with the linked list class and record structure in this project. 
 SCCS was used as version control in previous assignements and we had to use again in this project. 
 A makefile had to be used to compile the files in this project, and a bash script had to be made that would check our files out of SCCS to be compiled and run. 
+
 Here is the source code for my project: <a href="https://github.com/ioaneomerod/records-project"><i class="large github icon "></i>Records</a>
