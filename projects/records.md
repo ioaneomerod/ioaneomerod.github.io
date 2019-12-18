@@ -27,7 +27,7 @@ summary: My final project for ICS 212 that acted as a database of records that c
 
 <p>
     Here is the compilation and linkage of the project and a sample output:
-    ```
+    
     uhx02:/home/i/ioane808/Project1% make project2
     g++ -ansi -pedantic-errors -Wall -c llist.cpp
     g++ -ansi -pedantic-errors -Wall -c menuoptions.cpp
@@ -62,7 +62,7 @@ summary: My final project for ICS 212 that acted as a database of records that c
     6. Reverse the order of the database and print it.
     7. Exit.
     Enter an option: 7
-    ```
+    
 </p>
 
 <p>
