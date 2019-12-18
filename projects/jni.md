@@ -20,6 +20,7 @@ summary: To learn about Java Native Interface in my ICS 212 class, we were taske
     <br>f(x) = x^2 - 3x - 10 for 5 <= x < 10
     <br>f(x) = x^2 - 7x - 8 for 10 <= x.
     <br>
+    <br>
     We were tasked with getting an user inputted integer and printing out a table of x and f(x) values that would start at x = 0 and increment by 0.5 until the table reached the user inputted integer. 
     The user interface code and code to print the values of x and f(x) as a table were done in Java. 
     While the code to find the f(x) values based on the user inputted integer was done in C. 
