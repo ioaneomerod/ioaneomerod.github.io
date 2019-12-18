@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/JNI.jpeg
+image: images/jni.png
 title: Java Native Interface
 permalink: projects/jni
 # All dates must be YYYY-MM-DD format!
