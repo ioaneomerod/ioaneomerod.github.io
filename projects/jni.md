@@ -54,3 +54,4 @@ Trying to debug and switch between Java and C while coding was a challenge as I 
 Getting the files to compile together was also the biggest challenge as I was having trouble including a path for the code to run.
 
 Here is the source code for my project: <a href="https://github.com/ioaneomerod/java-native-interface"><i class="large github icon "></i>Java Native Interface</a>
+ 
