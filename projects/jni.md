@@ -29,7 +29,7 @@ summary: To learn about Java Native Interface in my ICS 212 class, we were taske
 
 <p>
     Here is a sample of the code's output and how I compiled and executed the code: 
-    
+    ```
     uhx02:/home/i/ioane808/Homework9% make hw9
     javac hw9.java
     javah hw9
@@ -50,7 +50,7 @@ summary: To learn about Java Native Interface in my ICS 212 class, we were taske
         1.50     2.25
         2.00     4.00
         2.50     6.25
-
+  ```
 </p>
 
 <p>
