@@ -23,7 +23,7 @@ This essay was co-authored with Eric Rivera and Eric Botello.
 
 ## Mockup Page Ideas:
 <ul>
-  <li>Landing page</li>
+   <li>Landing page</li>
    <li>User home page</li>
    <li>User profile page</li>
    <li>Scheduled rides</li>
@@ -43,7 +43,7 @@ This essay was co-authored with Eric Rivera and Eric Botello.
 ## Beyond the Basics:
 After implementing the basic functionality, here are ideas for more advanced features:
 <ul>
-  <li>Optimal profile suggestions to maximize gas mileage</li>
+ <li>Optimal profile suggestions to maximize gas mileage</li>
  <li>Rating system to find reliable partners</li>
  <li>Ability to select different ride share groups for different days</li>
 </ul>
