@@ -13,10 +13,10 @@ labels:
 summary: To learn about Java Native Interface in my ICS 212 class, we were tasked with splitting a program into Java and C or C++ code and then compiling and running the code with Java Native Interface. 
 ---
 
-In this homework for ICS 211 we were given a function: </br>
+In this homework for ICS 211 we were given a function: </hr>
 f(x) = x^2 for x < 5 </br>
-f(x) = x^2 - 3x - 10 for 5 <= x < 10 </br>
-f(x) = x^2 - 7x - 8 for 10 <= x. </br>
+f(x) = x^2 - 3x - 10 for 5 <= x < 10 </hr>
+f(x) = x^2 - 7x - 8 for 10 <= x. </hr>
 We were tasked with getting an user inputted integer and printing out a table of x and f(x) values that would start at x = 0 and increment by 0.5 until the table reached the user inputted integer. The user interface code and code to print the values of x and f(x) as a table were done in Java. While the code to find the f(x) values based on the user inputted integer was done in C. The main point of the project was to use Java Native Interface to compile and execute code that is in both Java and C or C++.
 
 Here is a sample of the code's output and how I compiled and executed the code: 
