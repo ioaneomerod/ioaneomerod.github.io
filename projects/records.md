@@ -24,42 +24,42 @@ The user can also reverse the order of the database and print out the changed da
 When a user exits the user interface the database is saved so it can be reloaded the next time a user uses the program.
 
 Here is the compilation and linkage of the project and a sample output:
-    ```
-    uhx02:/home/i/ioane808/Project1% make project2
-    g++ -ansi -pedantic-errors -Wall -c llist.cpp
-    g++ -ansi -pedantic-errors -Wall -c menuoptions.cpp
-    g++ -ansi -pedantic-errors -Wall -c main.cpp
-    g++ -o project2 main.o menuoptions.o llist.o
-    uhx02:/home/i/ioane808/Project1% ./project2
-    Select a task to be done by typing the number 
-    corresponding to the option.
-    1. Add a new record in the database.
-    2. Print information about a record using the accountno.
-    3. Print all information in database.
-    4. Print records whose name starts with:
-    5. Delete existing record using accountno.
-    6. Reverse the order of the database and print it.
-    7. Exit.
-    Enter an option: 1
-    Enter accountno: 12345
-    Insert name: John Doe
-    Type your address and type a ; at the end
-    when you are finished.
-    Insert address: 1213 Doe Street
-    Honolulu, HI
-    96818;
-    Record added successfully.
-    Select a task to be done by typing the number 
-    corresponding to the option.
-    1. Add a new record in the database.
-    2. Print information about a record using the accountno.
-    3. Print all information in database.
-    4. Print records whose name starts with:
-    5. Delete existing record using accountno.
-    6. Reverse the order of the database and print it.
-    7. Exit.
-    Enter an option: 7
-    ```
+```
+uhx02:/home/i/ioane808/Project1% make project2
+g++ -ansi -pedantic-errors -Wall -c llist.cpp
+g++ -ansi -pedantic-errors -Wall -c menuoptions.cpp
+g++ -ansi -pedantic-errors -Wall -c main.cpp
+g++ -o project2 main.o menuoptions.o llist.o
+uhx02:/home/i/ioane808/Project1% ./project2
+Select a task to be done by typing the number 
+corresponding to the option.
+1. Add a new record in the database.
+2. Print information about a record using the accountno.
+3. Print all information in database.
+4. Print records whose name starts with:
+5. Delete existing record using accountno.
+6. Reverse the order of the database and print it.
+7. Exit.
+Enter an option: 1
+Enter accountno: 12345
+Insert name: John Doe
+Type your address and type a ; at the end
+when you are finished.
+Insert address: 1213 Doe Street
+Honolulu, HI
+96818;
+Record added successfully.
+Select a task to be done by typing the number 
+corresponding to the option.
+1. Add a new record in the database.
+2. Print information about a record using the accountno.
+3. Print all information in database.
+4. Print records whose name starts with:
+5. Delete existing record using accountno.
+6. Reverse the order of the database and print it.
+7. Exit.
+Enter an option: 7
+```
 This project was a culmination of various things learned through out the semester. 
 A lot of class assignments required us to  create simple, text based user interfaces and handle incorrect input from a user. 
 We had to create structures in C and C++ and classes in C++, which was needed when we worked with the linked list class and record structure in this project. 
