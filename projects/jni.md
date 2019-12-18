@@ -29,7 +29,28 @@ summary: To learn about Java Native Interface in my ICS 212 class, we were taske
 
 <p>
     Here is a sample of the code's output and how I compiled and executed the code: 
-    <img class="Compilation and sample output of Java Native Interface Code" src="../images/JNI-output.png">
+    ```
+    uhx02:/home/i/ioane808/Homework9% make hw9
+    javac hw9.java
+    javah hw9
+    gcc -ansi -pedantic-errors -Wall -I/usr/java/jdk1.8.0_131/include -I/usr/java/jdk1.8.0_131/include/linux -shared hw9.c -fPIC -o libhw9.so
+    java -Djava.library.path=. hw9
+    This program will print a table of x
+    and f(x) for x from 0 to the user
+    inputted integer with f(x) being
+    equal to:
+    x^2 for x < 5
+    x^2 - 3x - 10 for 5 <= x < 10
+    x^2 - 7x - 8 for 10 <= x.
+    Enter number of x: 3
+        x        y
+        0.00     0.00
+        0.50     0.25
+        1.00     1.00
+        1.50     2.25
+        2.00     4.00
+        2.50     6.25
+    ```
 </p>
 
 <p>
