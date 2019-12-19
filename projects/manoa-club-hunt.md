@@ -14,7 +14,7 @@ labels:
 summary: The final project for my ICS 314 class. I had to create a web application in a group with three other students.
 ---
 
-<img alt="manoa clubt hunt landing page" src="../images/manoa-club-hunt.png">
+<img class="medium image" alt="manoa club hunt landing page" src="../images/manoa-club-hunt.png">
 
 Manoa Club Hunt is a web application made to help University of Hawaiʻi at Mānoa students find college clubs to join.
 This web application was developed as the final project for my ICS 314 class alongside my classmates Konapiliahi Canaday, Xandrew Julian and Sun Young Kim. 
