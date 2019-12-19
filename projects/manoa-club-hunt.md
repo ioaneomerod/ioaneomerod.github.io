@@ -18,7 +18,9 @@ summary: The final project for my ICS 314 class. I had to create a web applicati
 
 Manoa Club Hunt is a web application made to help University of Hawaiʻi at Mānoa students find college clubs to join.
 This web application was developed as the final project for my ICS 314 class alongside my classmates Konapiliahi Canaday, Xandrew Julian and Sun Young Kim. 
-Manoa Club Hunt allowed users to create their own profile, browse the different clubs registered with the University of Hawaiʻi at Mānoa, see a club's profile and add new clubs to our database. 
+Manoa Club Hunt allows users to create their own profile, browse the different clubs registered with the University of Hawaiʻi at Mānoa, see a club's profile and add new clubs to our database.
+Users can sort clubs by interests and find clubs with similar interests to them.
+Clubs have an image and brief description so users can become familiar with the clubs while they are browsing.
  
 I worked mostly with the user profile side of the application.
 I created the user profile and the edit user profile pages. 
