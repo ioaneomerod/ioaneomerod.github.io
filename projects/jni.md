@@ -13,7 +13,7 @@ labels:
 summary: To learn about Java Native Interface in my ICS 212 class, we were tasked with splitting a program into Java and C or C++ code and then compiling and running the code with Java Native Interface. 
 ---
 
-<img alt="picture of what JNI is" src="../images/jni.png">
+<img alt="picture of what JNI is" src="../images/jni.png" width="50%">
 
 In this homework assignment for my ICS 211 class, we were given a function:
 <br>

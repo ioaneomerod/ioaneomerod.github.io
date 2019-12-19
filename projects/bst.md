@@ -13,7 +13,7 @@ labels:
 summary: An ICS 211 assigment that helped us learn about binary search trees and the different ways to traverse them. We had to create a binary search tree of Contacts and have a function traverse the tree in order. 
 ---
 
-<img alt="example picture of binary search tree" src="../images/BST.png">
+<img alt="example picture of binary search tree" src="../images/BST.png" width="50%">
 
 For this assignment we were given a class, contacts, which had the contact's first name, last name and contact number as strings, and we were given a search tree interface, in order interface and test cases. 
 The assignment was to take the search tree and in order interfaces and create a binary search tree class.

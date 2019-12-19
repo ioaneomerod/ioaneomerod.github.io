@@ -14,7 +14,7 @@ labels:
 summary: My final project for ICS 212 that acted as a database of records that could be manipulated by a user with specific commands.
 ---
 
-<img alt="picture of record stack" src="../images/Records.jpg">
+<img alt="picture of record stack" src="../images/Records.jpg" width="50%">
 
 The final project for my ICS 211 class simulates a record database that can be changed based on user input. 
 The database is a linked list of record structures. 
