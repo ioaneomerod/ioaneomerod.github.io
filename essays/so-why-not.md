@@ -27,7 +27,7 @@ Therefore, the foremost skill I hope to learn from all of my computer science cl
 With software engineering in particular, I hope it helps me learn how to be a better problem solver so I don't have to resort to Google as often. 
 Lastly, I know working in a group is very important for anyone in computer science, so I'm hoping to learn how to work as part of a group better because my current communication and group working skills leave a bit to be desired. 
 
-## Look to My Future Because My Past Is All Behind Me 
+## Look to My Future because My Past is All Behind Me 
 
 I see my future in computer science being one of two possibilities. 
 A conservative, average 9 to 5 job that I like. 

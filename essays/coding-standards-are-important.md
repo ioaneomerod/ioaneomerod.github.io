@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards Are Tedious But Important 
+title: Coding Standards are Tedious but Important 
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-26
 labels:
@@ -9,7 +9,7 @@ labels:
   - Quality Assurance
 ---
 
-## Coding Standards And Their Effects 
+## Coding Standards and Their Effects 
 Coding standards are rules that create a standard for how code should be written, and although some people think of coding standards as tedious, I happen to enjoy coding standards. 
 They give a sense of uniformity to code that makes collaboration seamless. 
 Coding standards also  make code more readable, which makes code easier to debug both for yourself and others. 
