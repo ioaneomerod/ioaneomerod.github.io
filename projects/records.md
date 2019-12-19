@@ -14,14 +14,15 @@ labels:
 summary: My final project for ICS 212 that acted as a database of records that could be manipulated by a user with specific commands.
 ---
 
-Our final project for ICS 211 that simulates a record database that can be changed based on user input. 
+The final project for my ICS 211 class simulates a record database that can be changed based on user input. 
 The database is a linked list of record structures. 
-The user can add a new record by giving the person’s name, address and account number. 
-The user can also delete a record from the database using the record’s account number. 
-The user can look up a name and any name in the database that matches the name given by the user will be printed. 
-The user can print a record using the record’s account number and print all records in the database. 
-The user can also reverse the order of the database and print out the changed database. 
-When a user exits the user interface the database is saved so it can be reloaded the next time a user uses the program.
+A user can add, delete and print information about the records.
+A user can add a new record by giving the person’s name, address and account number. 
+A user can also delete a record from the database using the record’s account number. 
+A user can look up a name and any name in the database that matches the name given by the user will be printed. 
+A user can print a record using the record’s account number and print all records in the database. 
+A user can also reverse the order of the database and print out the changed database. 
+When a user exits the program, the database is saved so any changes made to the database can be reloaded the next time the user uses the program.
 
 Here is the compilation and linkage of the project and a sample output:
 ```
@@ -61,9 +62,10 @@ corresponding to the option.
 Enter an option: 7
 ```
 This project was a culmination of various things learned through out the semester. 
-A lot of class assignments required us to  create simple, text based user interfaces and handle incorrect input from a user. 
-We had to create structures in C and C++ and classes in C++, which was needed when we worked with the linked list class and record structure in this project. 
-SCCS was used as version control in previous assignements and we had to use again in this project. 
-A makefile had to be used to compile the files in this project, and a bash script had to be made that would check our files out of SCCS to be compiled and run. 
+A lot of class assignments required us to  create simple, text based user interfaces and handle incorrect input from a user, which was used to ensure the user input was what I expected and did not contain anything that could break my program. 
+We had to create structures and classes in C and C++, which was needed to create the linked list class and record structure that made up this project's database. 
+SCCS, Source Code Control System, was used for version control, so we could access older versions of our code in previous assignments. 
+We learned how to create a Makefile to compile and link our files into an executable program with only one command.
+For this final project, not only did we have to use SCCS and a Makefile, but we also had to create a bash script named getrelease that would get all of the files necessary to run the project from SCCS in a single command.
 
 Here is the source code for my project: <a href="https://github.com/ioaneomerod/records-project"><i class="large github icon "></i>Records</a>

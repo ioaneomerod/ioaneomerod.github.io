@@ -15,9 +15,9 @@ summary: An ICS 211 assigment that helped us learn about binary search trees and
 
 <img class="example picture of binary search tree" src="../images/BST.png">
 
-For this assignment we were given a class, contacts, which had three strings a first name, last name and contact number, test cases to test our binary search tree and a search tree and in order interface. 
-I implemented the binary search tree and its functions. 
-The tree was made with functions to add contacts to the tree, delete contacts from the tree, find a contact and a contains function that returned true if a contact was found to be in the tree or false if no contact was found. 
+For this assignment we were given a class, contacts, which had the contact's first name, last name and contact number as strings, and we were given a search tree interface, in order interface and test cases. 
+The assignment was to take the search tree and in order interfaces and create a binary search tree class.
+The binary search tree was made with functions to add contacts to the tree, delete contacts from the tree, find a contact and a contains function that returned true if a contact was found to be in the tree or false if no contact was found. 
 I built a comparator that returned an integer based on the contact’s last name and an integer comparator was made to compare the integers returned from the contact comparator. 
 These comparators were used so the contacts could be sorted when added to the binary search tree. 
 I implemented an in order function to traverse the binary search tree in order and return a list of all of the contacts in the binary search tree. 
