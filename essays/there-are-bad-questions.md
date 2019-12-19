@@ -21,8 +21,8 @@ So, for everyone's sake only ask good questions.
 Take for example this question that comes from: 
 <br/> <a href = "https://stackoverflow.com/questions/13946934/create-contain-file-log-coldfusion"> create contain file log coldfusion </a>
 
-<img class="Bad Question Example" src="../images/bad-question.png">
-<img class="Response to a bad question" src="../images/bad-question-answer.png">
+<img alt="Bad Question Example" src="../images/bad-question.png">
+<img alt="Response to a bad question" src="../images/bad-question-answer.png">
 
 The original question posed is extremely confusing and seems hastily posted. 
 The person asking the question states that they want their code to create a log file but an error occurs. 
@@ -38,8 +38,8 @@ This may be because their question is ambiguous and not descriptive, which is co
 To see a question that was asked in a clear and “smart” manner take this question from: 
 <br/> <a href = "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons/359509#359509"> Which equals operator (== vs ===) should be used in JavaScript comparisons? </a>
 
-<img class="Good Question Example" src="../images/comparisons-question.png">
-<img class="Response to a good question" src="../images/comparisons-answer.png">
+<img alt="Good Question Example" src="../images/comparisons-question.png">
+<img alt="Response to a good question" src="../images/comparisons-answer.png">
 
 The question begins with some background information about how, while coding in JavaScript the poster was prompted to change their comparison operator == to ===. 
 The poster follows this with a simple example of code that was prompted to be changed and then asks if there is a benefit to replacing == with ===. 

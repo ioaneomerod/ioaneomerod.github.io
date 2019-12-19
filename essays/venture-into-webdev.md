@@ -23,7 +23,7 @@ I thought how do people create such professional and stylish websites using thes
 My first project using Semantic UI was a remake of another project, Browser History. 
 The original Browser History project was made using raw HTML and CSS and looked like this:
 
-<img class="BH Using Raw HTML and CSS" src="../images/BH-Raw-HTML.png" width="600px">
+<img alt="BH Using Raw HTML and CSS" src="../images/BH-Raw-HTML.png" width="600px">
 
 To create the navigation bar using raw HTML and CSS, I had to use an unordered list with some CSS style rules.
 I had to write style rules to make the list appear horizontal instead of vertical, and I had to add a rule to get rid of the list's bullets.
@@ -31,7 +31,7 @@ This felt like a lot of time and code for something that looked less than stella
 However, when I created the navigation bar using Semantic UI, all I had to do was create a single div for the navigation bar. 
 In fact, everything took less code to make in Semantic UI than it did in raw HTML and CSS, and the new Browser History looked significantly better than the original:
 
-<img class="BH Using Semantic UI" src="../images/BH-Semantic.png" width="600px">
+<img alt="BH Using Semantic UI" src="../images/BH-Semantic.png" width="600px">
 
 ## Why Use a Framework? 
 Some people seem to dislike Semantic UI because customization in Semantic UI is a lot harder than it is in raw HTML and CSS. 
