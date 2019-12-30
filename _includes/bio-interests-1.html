@@ -11,10 +11,15 @@
     {% for entry in site.data.bio.interests %}
       {{ entry.name }},
       <!-- Unfortunately the following must all be on a single line so that there are no spaces before the commas. -->
+<<<<<<< HEAD
       {% if entry.keywords and entry.keywords.size > 0 %}
       {% for keyword in entry.keywords %}
       {{ keyword }}{% if forloop.last != true %} {% endif %}
       {% endfor %}
+=======
+      {% if entry.keywords and entry.keywords.size > 0 %}({% for keyword in entry.keywords %}{{ keyword }}{% if forloop.last != true %}, {% endif %}{% endfor %}){% endif %}{% if forloop.last != true %}, {% endif %}
+    {% endfor %}
+>>>>>>> parent of d8bf8d9... Trying to get rid of space after commas in interests.
     </p>
   </div>
 </div>
