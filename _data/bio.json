@@ -63,6 +63,8 @@
         "C++",
         "Java",
         "JavaScript",
+        "Python",
+        "SQL",
         "HTML/CSS",
         "Semantic UI",
         "React",
@@ -97,8 +99,8 @@
         "Introduction to Computer Science II",
         "Discrete Mathematics for Computer Science I",
         "Discrete Mathematics for Computer Science II",
-        "Software Engineering I",
-        "Algorithms"
+        "ICS 314: Software Engineering I",
+        "ICS 311: Algorithms"
       ]
     }
   ],
